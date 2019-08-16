@@ -1,7 +1,7 @@
 # notes
 
 Curl
-  -A/--user-agent <agent string>
+  -A/--user-agent <agent string>/n
   -H/--header <header>
   -k/--insecure #for insecure ssl
   -o/--output <file>
