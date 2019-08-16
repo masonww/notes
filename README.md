@@ -1,6 +1,6 @@
-# notes
 
 Curl
+'''
   -A/--user-agent <agent string>
   -H/--header <header>
   -k/--insecure #for insecure ssl
@@ -8,7 +8,8 @@ Curl
   -x/--proxy <proxyhost[:port]>
   -X #explicit method
   -d #data to send
-  #example curl <URL> -H "content-type: application/json" -d "{ \"woof\": \"bark\"}" #Curl post send json
-  #example curl -u $username:$password http://repo.dennyzhang.com/README.txt #upload with creds
+  example curl <URL> -H "content-type: application/json" -d "{ \"woof\": \"bark\"}" #Curl post send json
+  example curl -u $username:$password http://repo.dennyzhang.com/README.txt #upload with creds
+  '''
   
   
